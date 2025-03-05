@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @OmerFaruk344
+- 👋 Hi, I’m @OmerFaruk
 - 👀 I’m interested in Games and Coding
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: im 16 y.o
 
 <!---
